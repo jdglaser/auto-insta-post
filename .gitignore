@@ -1,0 +1,6 @@
+**/backend/static
+secret**
+.DS_Store**
+.vscode
+.mypy_cache
+.python-version
